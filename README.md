@@ -6,27 +6,27 @@ Flutter Developer at [Elevare Tech], passionate about building impactful solutio
 
 🧑‍💻 **Top Skills**
 
-Flutter (mobile & web)
+1) Flutter (mobile & web)
 
-ASP .Net Web API
+2) ASP .Net Web API
 
-C#
+3) C#
 
-SQL Server / PostgreSQL
+4) SQL Server / PostgreSQL
 
 🌟 **Featured Projects**
 
-Personal Portfolio Website — Create, manage, and share your professional portfolio with dynamic cross-referencing and QR code access.
+1) Personal Portfolio Website — Create, manage, and share your professional portfolio with dynamic cross-referencing and QR code access.
 
-AI-Powered Ride-Hailing App — Smart ride-booking platform with real-time tracking, driver analytics, and AI-driven route optimization.
+2) AI-Powered Ride-Hailing App — Smart ride-booking platform with real-time tracking, driver analytics, and AI-driven route optimization.
 
 ⚡ **Interests**
 
-Coding & continuous learning
+1) Coding & continuous learning
 
-cricket (on and off the field!)
+2) Cricket (on and off the field!)
 
-Movies (always up for a recommendation!)
+3) Movies (always up for a recommendation!)
 
 📫 **Connect with Me**
 
