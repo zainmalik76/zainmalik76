@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 **Hi, I'm Zain-ul-abideen (zainmalik76)**
 
-<!--
-**zainmalik76/zainmalik76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me** 
 
-Here are some ideas to get you started:
+Flutter Developer at [Elevare Tech], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 **Top Skills**
+
+Flutter (mobile & web)
+
+ASP .Net Web API
+
+C#
+
+SQL Server / PostgreSQL
+
+🌟 **Featured Projects**
+
+Personal Portfolio Website — Create, manage, and share your professional portfolio with dynamic cross-referencing and QR code access.
+
+AI-Powered Ride-Hailing App — Smart ride-booking platform with real-time tracking, driver analytics, and AI-driven route optimization.
+
+⚡ **Interests**
+
+Coding & continuous learning
+
+cricket (on and off the field!)
+
+Movies (always up for a recommendation!)
+
+📫 **Connect with Me**
+
+WhatsApp: +92 3336 5787031
+
+LinkedIn: www.linkedin.com/in/zain-ul-abideen79
+
+Thanks for visiting my profile! 🚀
