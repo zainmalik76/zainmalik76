@@ -2,7 +2,7 @@
 
 🚀 **About Me** 
 
-Flutter Developer at [Elevare Tech], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
+Software Intern at [Technology Junction], passionate about building impactful solutions with modern technologies. I love turning ideas into beautiful, functional apps, and I'm always learning something new!
 
 🧑‍💻 **Top Skills**
 
